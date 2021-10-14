@@ -1,7 +1,6 @@
 /**/
-    #background{
-      color: skyblue;
-
+    body{
+      background: skyblue;
     }
 
     #minuteStr {
