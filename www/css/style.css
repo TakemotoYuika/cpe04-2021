@@ -54,15 +54,15 @@
         color: #6a5acd;
         font-size: 20px;
         text-align: center;
-        position:absolute; top:7px; 
+        position:absolute; top:380px; 
         left:210px; right:10px;
     }
     #time {
         color:#6a5acd ;
         font-size: 20px;
         text-align: center;
-        position:absolute; top:30px; 
-        left:300px; right:10px;
+        position:absolute; top:410px; 
+        left:220px; right:10px;
     }
     #mycanvas {
         color: #ffffff;
